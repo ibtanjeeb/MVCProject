@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\bin\Debug\netstandard2.0\SMECommerce.Databases.deps.json
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\bin\Debug\netstandard2.0\SMECommerce.Databases.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\bin\Debug\netstandard2.0\SMECommerce.Databases.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.AssemblyInfo.cs
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Databases1\obj\Debug\netstandard2.0\SMECommerce.Databases.pdb

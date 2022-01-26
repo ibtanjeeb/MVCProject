@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerceRepositories.deps.json
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerceRepositories.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerceRepositories.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SmeCommerce.Models.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SmeCommerce.Models.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.AssemblyInfo.cs
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.csproj.CopyComplete
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\obj\Debug\netstandard2.1\SMECommerceRepositories.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstraction.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerceRepositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstraction.pdb

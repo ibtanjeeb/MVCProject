@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\bin\Debug\netstandard2.1\SMECommerce.Services.Abstraction.deps.json
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\bin\Debug\netstandard2.1\SMECommerce.Services.Abstraction.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\bin\Debug\netstandard2.1\SMECommerce.Services.Abstraction.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\bin\Debug\netstandard2.1\SmeCommerce.Models.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\bin\Debug\netstandard2.1\SmeCommerce.Models.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.AssemblyInfo.cs
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.csproj.CopyComplete
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce.Services.Abstraction\obj\Debug\netstandard2.1\SMECommerce.Services.Abstraction.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wy248BK0bUNihL8FZW7QtYhVgkfxbXVjRfAYS3JroVAiVeGADfucWjUD4AUUamxjeo9qA0cCBT9vh1I5jlXxSQ==",
+  "success": true,
+  "projectFilePath": "G:\\MVCProject\\SMECommerce\\SMECommerce.Services.Abstraction\\SMECommerce.Repositories.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

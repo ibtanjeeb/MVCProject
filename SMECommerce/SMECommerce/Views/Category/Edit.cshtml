@@ -1,0 +1,14 @@
+﻿@model SMECommerce.Models.CategoryEditVM;
+
+<h1>Create Category</h1>
+
+<form method="post">
+
+    Name:<input asp-for="Name" type="text" id="name" name="name" /><br />
+
+    Code:<input asp-for="Code" type="text" id="code" name="code" /><br />
+
+    Description:<input asp-for="Description" type="text" id="Description" name="Description" /><br />
+    <input type= "hidden" asp-for="Id" />
+    <input type="submit" name="Save" />
+</form>
