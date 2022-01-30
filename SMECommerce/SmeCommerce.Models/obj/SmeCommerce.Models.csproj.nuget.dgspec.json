@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {}
   },
   "projects": {
-    "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
+    "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
         "projectName": "SmeCommerce.Models",
-        "projectPath": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

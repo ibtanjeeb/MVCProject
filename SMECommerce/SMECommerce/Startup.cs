@@ -14,6 +14,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SMECommerce.App.Configurations;
 
 namespace SMECommerce
 {
@@ -30,15 +31,10 @@ namespace SMECommerce
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<SMECommerceDbContext>(c => c.UseSqlServer(@"Server = (local); Database = SMECommerceDB; Trusted_Connection = True"));
+            services.AddAutoMapper(typeof(Startup));
+            AppConfiguration.ConfigureServices(services);
 
-            services.AddTransient<ICategoryRepository, CategoryRepository>();
 
-            services.AddTransient<ICategoryService, CategoryServicees>();
-
-            services.AddTransient<IProductService, ProductService>();
-
-            services.AddTransient<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rUX5X9r+UJCf8wbR/2qBYiZ6b+6ncUXEXYb6oHhqolvZ0WR1l9sDpbPuPt2TgSyO8voMVjd75D8zGB1rxeWWsw==",
+  "dgSpecHash": "+wNxUAZ82v+A7BrfqWS6xMwDShuSZe4qgwolgnL6zb7owz716SWcuNDjzip0K7zY4n2B2qs/i92+JgU7Pe0UkQ==",
   "success": true,
-  "projectFilePath": "G:\\MVCProject\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

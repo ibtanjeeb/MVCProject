@@ -162,3 +162,8 @@ C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.
 C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.Service.Abstraction.dll
 C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.Repositories.Abstraction.pdb
 C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.Service.Abstraction.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.App.Configurations.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\SMECommerce.App.Configurations.pdb
+C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\USER\source\repos\SMECommerce\SMECommerce\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

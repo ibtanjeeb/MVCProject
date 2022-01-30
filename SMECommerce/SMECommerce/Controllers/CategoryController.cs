@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using SmeCommerce.Models.EntityModels;
 using SMECommerce.Models;
 using SMECommerce.Models.CategoryCreate;
@@ -15,9 +16,14 @@ namespace SMECommerce.Controllers
     public class CategoryController : Controller
     {
         ICategoryService _categoryService;
-        public CategoryController(ICategoryService categoryService)
+
+
+        IMapper _mapper;
+        public CategoryController(ICategoryService categoryService,IMapper mapper)
         {
             _categoryService = categoryService;
+
+            _mapper = mapper;
         }
         public string Index()
         {
@@ -31,20 +37,23 @@ namespace SMECommerce.Controllers
 
         }
         [HttpPost]
-        public IActionResult Create(CategoryCreate model)
+        public IActionResult Create(CategoryCreateVM model)
         {
            
 
 
-            if (model.Name != null)
+            if (model.CategoryName != null)
             {
-                var category = new Category()
-                {
-                    CategoryName = model.Name,
-                    Description = model.Description,
-                    Code = model.Code
+                //var category = new Category()
+                //{
+                //    CategoryName = model.Name,
+                //    Description = model.Description,
+                //    Code = model.Code
 
-                };
+                //};
+                var category = _mapper.Map<Category>(model);
+
+
                 var IsAdded = _categoryService.Add(category);
                 if(IsAdded)
                 {
@@ -89,13 +98,15 @@ namespace SMECommerce.Controllers
         {
             if(ModelState.IsValid)
             {
-                var category = new Category()
-                {
-                    CategoryId = Model.Id,
-                    CategoryName = Model.Name,
-                    Code = Model.Code,
-                    Description = Model.Description
-                };
+                //var category = new Category()
+                //{
+                //    CategoryId = Model.Id,
+                //    CategoryName = Model.Name,
+                //    Code = Model.Code,
+                //    Description = Model.Description
+                //};
+
+                var category = _mapper.Map<Category>(Model);
 
                 bool isUpdate = _categoryService.Update(category);
 
@@ -146,14 +157,14 @@ namespace SMECommerce.Controllers
             return View(CategorylistVm);
         }
 
-        public string CategoryListCreate(CategoryCreate[] categories)
+        public string CategoryListCreate(CategoryCreateVM[] categories)
         {
             string data = "Category List Create" + Environment.NewLine;
             if(categories!=null && categories.Any())
             {
                 foreach(var category in categories)
                 {
-                    data += $"Create Category:{category.Name} code:{category.Code}" + Environment.NewLine;
+                    data += $"Create Category:{category.CategoryName} code:{category.Code}" + Environment.NewLine;
                 }
             }
             return data;

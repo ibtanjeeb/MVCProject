@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MVCProject\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj": {}
   },
   "projects": {
-    "G:\\MVCProject\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj": {
+    "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MVCProject\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj",
         "projectName": "SMECommerce.Databases",
-        "projectPath": "G:\\MVCProject\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Databases1\\SMECommerce.Databases.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "G:\\MVCProject\\SMECommerce\\SMECommerce.Databases1\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Databases1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
-                "projectPath": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj"
+              "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
+    "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
         "projectName": "SmeCommerce.Models",
-        "projectPath": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\SmeCommerce.Models.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "G:\\MVCProject\\SMECommerce\\SmeCommerce.Models\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SmeCommerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

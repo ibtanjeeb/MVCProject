@@ -5,16 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+	  <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.11" />
 	  <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SMECommerce.App.Configurations\SMECommerce.App.Configurations.csproj" />
     <ProjectReference Include="..\SMECommerce.Databases1\SMECommerce.Databases.csproj" />
-    <ProjectReference Include="..\SmeCommerce.Models\SmeCommerce.Models.csproj" />
-    <ProjectReference Include="..\SMECommerce.Services\SMECommerce.Services.csproj" />
-    <ProjectReference Include="..\SMECommerceRepositories\SMECommerceRepositories.csproj" />
   </ItemGroup>
 
 </Project>

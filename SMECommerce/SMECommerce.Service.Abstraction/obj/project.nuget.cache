@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6+5IVC1Wox1iqGG/5tgu/npinjs0tYLCrc2o4ktUhxnTfwKb2rBekOLX0JpSPtxEvoKykXEC7ENeA5tS2qEKg==",
+  "dgSpecHash": "ZZvya4gG8tjE4Cc4QS37s5lO1N6GMFo7cOu+4v/tfk0SBbHd7lHMZEV8exsjLGMnueVTn9inOK1DwA2Lt/8BiQ==",
   "success": true,
-  "projectFilePath": "G:\\MVCProject\\SMECommerce\\SMECommerce.Service.Abstraction\\SMECommerce.Service.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\SMECommerce\\SMECommerce.Service.Abstraction\\SMECommerce.Service.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
