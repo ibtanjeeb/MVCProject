@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\bin\Debug\netcoreapp3.1\MyMVC.Models.deps.json
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\bin\Debug\netcoreapp3.1\MyMVC.Models.dll
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\bin\Debug\netcoreapp3.1\MyMVC.Models.pdb
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.AssemblyInfo.cs
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.dll
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.pdb
+C:\Users\USER\source\repos\MyMVC\MyMVC.Models\obj\Debug\netcoreapp3.1\MyMVC.Models.csproj.AssemblyReference.cache
